@@ -16,5 +16,5 @@ To use all of the functionalities shown in this example, remember to add these p
 \usepackage{float}
 
 ```
-##For more...
+## For more...
 Check out the [Overleaf Documentation](https://www.overleaf.com/learn)
